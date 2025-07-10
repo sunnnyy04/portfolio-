@@ -228,7 +228,7 @@ export const projects = [
     ],
     "category": "web",
     "github": "https://github.com/sunnnyy04/chat-frontened",
-    "webapp": "https://practice-flexmania.vercel.app/",
+    "webapp": "https://chat-frontened.onrender.com/",
     "member": [
       {
         "name": "Sunny Shukla",
